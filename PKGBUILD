@@ -1,4 +1,4 @@
-pkgname=yandex-browser
+pkgname=yandex-browser-beta
 pkgver=16.7.0.2846
 pkgrel=1
 pkgdesc="The web browser from Yandex. / Yandex Browser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier."
